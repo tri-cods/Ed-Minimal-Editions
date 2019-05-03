@@ -1,0 +1,3 @@
+# Open project
+
+We will guide you on how to fork and customize a site.....
