@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Tri-co Digital Editions"
+---
+<div class="introduction">
+  <h1>About</h1>
+
+<p>Built as a collaborative project for the Tri-Co Digital Scholarship Research Institute, using  <a href="https://minicomp.github.io/ed/">Ed</a>, a <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> theme designed for textual editors based on <a href="http://go-dh.github.io/mincomp/">minimal computing principles</a>, and focused on legibility, durability, ease and flexibility.</p>
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>Texts</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}, by {{item.author}} ({{item.first-pub}})
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>

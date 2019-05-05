@@ -1,0 +1,49 @@
+remote_theme: minicomp/ed
+# About/contact
+
+# Setup
+title:               Tri-co Digital Editions
+tagline:             'A DSRI 2019 project'
+description:         'Creating simple, minimal digital editions using Ed.'
+url:                 'http://tri-cods.github.io'
+baseurl:             '/Ed-Minimal-Editions'
+
+# About/contact
+author:
+  name:              Tri-co DS Team
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: cyan
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+
+# Theme
+theme: "ed."
