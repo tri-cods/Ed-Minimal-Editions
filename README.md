@@ -13,7 +13,9 @@ In this session, we will:
 - collaborate on a GitHub Pages website
 - learn how to build a lightweight digital edition
 
+[Lets get started>>](sections/setting-up.md)
 
+-------------------------------------
 
 [Setting up]()
 
