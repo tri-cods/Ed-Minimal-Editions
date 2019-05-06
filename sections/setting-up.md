@@ -1,5 +1,9 @@
 # Setting up
 
+## Working 'locally' in GitHub
+
+Yesterday and today, you have worked in Github only. Part of what makes github pages compeling is not only the possibility of having a website with minimal overhead but also have a way to see what you will be publishing before its live. To see the local changes before you publish them, you will have to download the repository to your computer. 
+
 ## Cloning our repository
 
 For this project you'll need a local copy of this GitHub repository, which you will download or 'clone'. First, navigate to whichever directory you want to use to store this project.
@@ -11,8 +15,6 @@ Then use Git to download
 `git clone https://github.com/tri-cods/Ed-Minimal-Editions.git`
 
 You now have a copy of the 'Ed Minimal Edition repository' in your computer that you can contribute to.
-
-## Working 'locally' in GitHub
 
 ## Choosing a text for your digital edition
 
