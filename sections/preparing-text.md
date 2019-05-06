@@ -2,7 +2,7 @@
 layout: narrative
 ---
 
-# Preparing a text for publication
+# Preparing your text
 
 ## Adding front matter
 
@@ -40,11 +40,13 @@ For more information, see the [Ed documentation](https://minicomp.github.io/ed/d
 
 ## Format your text using markdown
 
-By now you'll be familiar with basic markdown syntax.
+By now you'll be familiar with basic markdown syntax. If you'd like to do more complex formatting you can also use html and a version of markdown called kramdown--the [Ed documentation](https://minicomp.github.io/ed/documentation/#markdown-and-kramdown) has additional instructions on supported formatting for features such as footnotes, block quotes, and poetry.
 
-Ed also supports kramdown and html: https://minicomp.github.io/ed/documentation/#markdown-and-kramdown
+As you edit your file locally, you can preview it using the 'Markdown Preview' feature in Atom (Packages -> Markdown Preview)
 
-Make sure you save your file.  
+
+
+Make sure you save your file often.   
 
 ----
 
@@ -92,9 +94,12 @@ If you haven't yet contributed to github from the command line, you will need to
 
 `git status`
 
-Before you push your changes, check the status of the remote repository: if your collaborators have made changes, you may want to incorporate them to your local repository before you
+Before you push your changes, check the status of the remote repository: if your collaborators have made changes, use `git pull` to incorporate them into your local repository.
 
 Make sure you have the most up-to-date version of your repository by 'pulling' any new changes from the remote repository to your local repository.
 
 ---
+
 # Collaborating on GitHub using branches
+
+For simultaneous collaborations, you may
