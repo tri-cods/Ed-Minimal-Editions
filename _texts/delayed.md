@@ -8,7 +8,6 @@ source: "Bartleby.com"
 
 - DELAYED till she had ceased to know,
 - Delayed till in its vest of snow
-- Test line
 - {:.indent-2}Her loving bosom lay.
 - An hour behind the fleeting breath,
 - Later by just an hour than death,—
