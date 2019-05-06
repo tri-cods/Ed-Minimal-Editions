@@ -23,3 +23,5 @@ Once you've selected your text, download it in plain text format (with the file 
 
 4. Save the text file as “your-own-title.md”
 5. Move it to the "_texts" folder in your local copy of the Ed MinimalEditions repository
+
+[next](sections/preparing-text.md)
