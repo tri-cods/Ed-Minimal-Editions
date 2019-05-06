@@ -1,3 +1,7 @@
+---
+layout: page
+title: Documentation
+---
 # DS in the classroom: creating a digital edition
 
 For this session we will demonstrate a simple project using the skills you've been developing: building a simple website using GitHub pages. The 'theme' we'll be using is [Ed](https://minicomp.github.io/ed/), designed for textual editors who want to create a digital edition of a primary text using the principles of [minimal computing](http://go-dh.github.io/mincomp/). Because it's an easy way to collaborate on creating open educational resources, we'll talk about how one could assign a similar activity to students.
@@ -11,13 +15,13 @@ In this session, we will:
 
 [Setting up]()
 
-[Preparing a text for publication]()
+[Preparing a text for publication](sections/preparing-text.md)
 
-[Contributing to the repository and collaborating]()
+[Contributing to the repository]()
 
-[Creating your own site]()
+[Collaborating using branches]()
 
-----
+---
 
 # Setting up
 
@@ -42,12 +46,5 @@ You can use anything you want, but for the purposes of this workshop, we encoura
 Once you've selected your text, download it in plain text format (with the file extension .txt).
 
 
-
 4. Save the text file as “your-own-title.md”
-5. Move it to the '_texts' folder in your local copy of the Ed-Minimal-Editions repository
-
-### Marking up the text
-1. Open the file in atom
-2. Add metadata to the beginning of your file using YAML: https://minicomp.github.io/ed/documentation/#jekyll
-3. Start formatting your text using markdown, kramdown, html: https://minicomp.github.io/ed/documentation/#markdown-and-kramdown
-4. Save your file
+5. Move it to the "_texts" folder in your local copy of the Ed MinimalEditions repository
