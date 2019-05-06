@@ -1,3 +1,7 @@
+---
+layout: narrative
+---
+
 # Preparing a text for publication
 
 ## Adding front matter
@@ -74,7 +78,7 @@ This command tells Git to "stage" or start tracking changes to the specified fil
 
 `git commit -m "message describing my changes"`
 
-By 'committing' you are packaging the changes you've made to tracked files in your repository and labeling them for your collaborators (including your future self). This prepares the changes for publications.
+By 'committing' you are packaging the changes you've made to tracked files in your repository and labeling them for your collaborators -- including your future self. This prepares the changes for publications.
 
 ### 3. Push
 
