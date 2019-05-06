@@ -1,4 +1,5 @@
-# Open project
+# Pedagogy
+
 
 ### Set up
 1. Clone repository: https://github.com/tri-cods/Ed-Minimal-Editions
