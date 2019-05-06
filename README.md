@@ -13,7 +13,36 @@ In this session, we will:
 - collaborate on a GitHub Pages website
 - learn how to build a lightweight digital edition
 
-[Lets get started>>](sections/setting-up.md)
+# Setting up
+
+## Working 'locally' in GitHub
+
+Yesterday and today, you have worked in Github only. Part of what makes github pages compeling is not only the possibility of having a website with minimal overhead but also have a way to see what you will be publishing before its live. To see the local changes before you publish them, you will have to download the repository to your computer. 
+
+## Cloning our repository
+
+For this project you'll need a local copy of this GitHub repository, which you will download or 'clone'. First, navigate to whichever directory you want to use to store this project.
+
+`cd <your directory>`
+
+Then use Git to download
+
+`git clone https://github.com/tri-cods/Ed-Minimal-Editions.git`
+
+You now have a copy of the 'Ed Minimal Edition repository' in your computer that you can contribute to.
+
+## Choosing a text for your digital edition
+
+You can use anything you want, but for the purposes of this workshop, we encourage you to pick something in the public domain that you're able to find in plain text format. For example, here's a list of [texts from the Internet Archive that entered the public domain in 2019](https://archive.org/details/texts?and%5B%5D=date%3A1923%2A&sort=-downloads).
+
+Once you've selected your text, download it in plain text format (with the file extension .txt).
+
+
+4. Save the text file as “your-own-title.md”
+5. Move it to the "_texts" folder in your local copy of the Ed MinimalEditions repository
+
+[<<previous](https://github.com/tri-cods/Ed-Minimal-Editions) | [next>>](preparing-text.md)
+
 
 -------------------------------------
 
