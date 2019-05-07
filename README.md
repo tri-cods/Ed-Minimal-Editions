@@ -42,6 +42,13 @@ Then use Git to download
 
 You now have a copy of the 'Ed Minimal Edition repository' in your computer that you can contribute to.
 
+## Becoming collaborators
+
+Now that you have a local copy of the repository in your computer, you can use your text editor rather than Github to make changes to the repository. That said, you still are not able to make changes to the mail repository in github. To do that, you have to become collaborators.
+
+1. Owner needs to add your github username as a collaborator to the repository
+2. You will get an email asking to accept becoming a collaborator
+
 ## Choosing a text for your digital edition
 
 You can use anything you want, but for the purposes of this workshop, we encourage you to pick something in the public domain that you're able to find in plain text format. For example, here's a list of [texts from the Internet Archive that entered the public domain in 2019](https://archive.org/details/texts?and%5B%5D=date%3A1923%2A&sort=-downloads).
