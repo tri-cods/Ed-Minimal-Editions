@@ -28,7 +28,7 @@ In this session, we will:
 
 ## Working 'locally' in GitHub
 
-Yesterday and today, you have worked in Github only. Part of what makes github pages compeling is not only the possibility of having a website with minimal overhead but also have a way to see what you will be publishing before its live. To see the local changes before you publish them, you will have to download the repository to your computer.
+Yesterday and today, you have worked in Github only. Part of what makes github pages compelling is not only the possibility of having a website with minimal overhead but also have a way to see what you will be publishing before its live. To see the local changes before you publish them, you will have to download the repository to your computer.
 
 ## Cloning our repository
 

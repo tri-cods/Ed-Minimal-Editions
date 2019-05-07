@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: instructions
 ---
 
 # Preparing your text
@@ -38,19 +38,21 @@ Each item listed in the table of contents must correspond to a level 2 heading w
 
 For more information, see the [Ed documentation](https://minicomp.github.io/ed/documentation/#jekyll)
 
-## Format your text using markdown
+## Formatting your text using markdown
 
 By now you'll be familiar with basic markdown syntax. If you'd like to do more complex formatting you can also use html and a version of markdown called kramdown--the [Ed documentation](https://minicomp.github.io/ed/documentation/#markdown-and-kramdown) has additional instructions on supported formatting for features such as footnotes, block quotes, and poetry.
 
+You can see examples of this
+
 As you edit your file locally, you can preview it using the 'Markdown Preview' feature in Atom (Packages -> Markdown Preview)
 
-
+![markdown preview screenshot](sections/markdown-preview.png)
 
 Make sure you save your file often.   
 
 ----
 
-# Git from the command line
+# Working locally in GitHub
 
 So far you've been contributing to GitHub using your browser, but you can also contribute by editing and saving files locally (on your computer) and then 'pushing' to the remote (cloud-based) repository. There are a few ways to do this:
 
@@ -102,4 +104,4 @@ Make sure you have the most up-to-date version of your repository by 'pulling' a
 
 # Collaborating on GitHub using branches
 
-For simultaneous collaborations, you may
+When you have multiple users contributing to a repository at the same time, using branches is one way to help minimize conflicts
