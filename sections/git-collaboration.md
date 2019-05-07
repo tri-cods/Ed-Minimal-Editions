@@ -109,6 +109,7 @@ Once you have created a branch, you can commit changes to that branch instead of
 
 ![committing and publishing to a new branch](publish-branch.png)
 
+Open the repository in your browser and try to find where your changes went.
 
 ---
 
