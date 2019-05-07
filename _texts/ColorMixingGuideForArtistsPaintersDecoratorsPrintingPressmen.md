@@ -17,6 +17,10 @@ toc:
 - MIXING TINTS
 - TO MATCH SPECIAL COLORS
 - ORIGIN AND DEFINITION OF COLORS.
+- COMPLEMENTARY AND HARMONIOUS COLOR COMBINATIONS
+- COLOR MIXTURES BY PARTS
+- TINT MIXTURES BY PARTS
+- COLOR MIXTURES
 ---
 
 # Proportions for MIXING ALL KNOWN COLORS
@@ -550,7 +554,7 @@ enamel and wall paper.
 
 
 
-ORIGIN AND DEFINITION OP COLORS.
+### ORIGIN AND DEFINITION OP COLORS.
 
 Chrome Greens — Are a mixture of chrome yel-
 low with blue.
@@ -577,7 +581,7 @@ distillation and other chemical processes,
 
 
 
-COCHINEAL
+### COCHINEAL
 
 Much credit is due the cochineal as most all of
 our brightest reds can be attributed to them.
@@ -617,7 +621,7 @@ Fawn — Light brown.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+### ORIGIN AND DEFINITION OF COLORS.
 
 Flake White — A carbonate of lead. An opaque
 fine white.
@@ -684,7 +688,7 @@ of the camel. A beautiful yellow.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+### ORIGIN AND DEFINITION OF COLORS.
 
 Indian Red — An earth pigment of Bengal
 Ranges in color from a light, bright red to a
@@ -740,7 +744,7 @@ roots, a climbing perennial.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+### ORIGIN AND DEFINITION OF COLORS.
 
 Mastic — Resin from a tree of southern Europe,
 yielding a varnish.
@@ -801,7 +805,7 @@ tained from the madder plant.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+### ORIGIN AND DEFINITION OF COLORS.
 
 Raw Sienna — An ocherous transparent earth
 pigment of orange-yellow, from Toscany.
@@ -861,7 +865,7 @@ hue and oftimes called turkey umber.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+### ORIGIN AND DEFINITION OF COLORS.
 
 Ultramarine Blue — A rare and durable sky blue
 obtained from the mineral lapis-lazuli, a stone
@@ -921,8 +925,7 @@ possesses little transparency.
 
 
 
-COMPLEMENTARY AND HARMONIOUS
-COLOR COMBINATIONS
+## COMPLEMENTARY AND HARMONIOUS COLOR COMBINATIONS
 
 For Painters, Decorators, Show Card Writers,
 
@@ -1004,8 +1007,7 @@ Medium Blue with old ivory.
 
 
 
-COMPLEMENTARY AND HARMONIOUS
-COLOR COMBINATIONS
+### COMPLEMENTARY AND HARMONIOUS COLOR COMBINATIONS
 
 Medium Blue with azure blue.
 
@@ -1091,8 +1093,7 @@ Violet with sea green.
 
 
 
-COMPLEMENTARY AND HARMONIOUS
-COLOR COMBINATIONS
+### COMPLEMENTARY AND HARMONIOUS COLOR COMBINATIONS
 
 Violet with apricot.
 Violet with cherry.
@@ -1114,7 +1115,7 @@ Yellow with green.
 
 
 
-COLOR MIXTURES BY PARTS
+## COLOR MIXTURES BY PARTS
 
 
 
@@ -1182,7 +1183,7 @@ netian red.
 
 
 
-COLOR MIXTURES BY PARTS
+### COLOR MIXTURES BY PARTS
 
 Color Desired Parts
 
@@ -1247,7 +1248,7 @@ burnt sienna.
 
 
 
-COLOR MIXTURES BY PARTS
+### COLOR MIXTURES BY PARTS
 
 Color Desired Parts
 
@@ -1286,7 +1287,7 @@ yellow; 1 permanent yellow.
 
 
 
-TINT MIXTURES BY PARTS
+## TINT MIXTURES BY PARTS
 
 Color Desired Parts
 
@@ -1350,9 +1351,9 @@ Warm Gray— 100 white; 3 black; 2 French ocher;
 
 
 
-COLOR MIXTURES
+## COLOR MIXTURES
 
-COLORS AS SEEN BY INDIVIDUALS
+### COLORS AS SEEN BY INDIVIDUALS
 The same color scheme does not appeal to every
 one Persons of refined temperament are best
 pleased with soft, delicate colors and shades.
@@ -1391,7 +1392,7 @@ lighter colors.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 In mixing colors, always commence with the
 lighter and add the darker, otherwise you will
@@ -1449,7 +1450,7 @@ equal parts, and ultramarine blue.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1508,7 +1509,7 @@ toned down with prussian blue.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1569,7 +1570,7 @@ Cobalt blue is better but not so common.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1625,7 +1626,7 @@ Claret — Red, yellow, black.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1683,7 +1684,7 @@ blue, and madder lake.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1747,7 +1748,7 @@ tian red.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1801,7 +1802,7 @@ Indigo — Antwerp blue toned with black.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
@@ -1864,7 +1865,7 @@ orange chrome yellow and a touch of black.
 
 
 
-COLOR MIXTURES
+### COLOR MIXTURES
 
 Color Desired Parts
 
