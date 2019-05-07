@@ -109,7 +109,15 @@ Once you have created a branch, you can commit changes to that branch instead of
 
 ![committing and publishing to a new branch](publish-branch.png)
 
-Open the repository in your browser and try to find where your changes went.
+Open the repository in your browser and try to find where your changes went. When you're ready to incorporate your changes back to the master branch, submit a Pull Request.
+
+![GitHub branches](github-branches.png)
+
+This will compare your branch with the master and determine whether there are conflicts that need to be managed. If there are no conflicts, you can easily merge your branch with the master.
+
+![GitHub pull request](pull-request.png)
+
+If there are conflicts between the branches, you'll have to decide how to resolve them. 
 
 ---
 
