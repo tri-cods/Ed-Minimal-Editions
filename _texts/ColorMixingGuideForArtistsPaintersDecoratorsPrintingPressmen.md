@@ -3,7 +3,6 @@ layout: narrative
 title: "Color mixing guide for artists, painters, decorators, printing pressmen, show card writers, sign painters, color mixers, give color mixtures by parts."
 author: John L. King
 source: https://archive.org/details/ColorMixingGuideForArtistsPaintersDecoratorsPrintingPressmenShow
----
 toc:
 - WHAT IS COLOR?
 - WARM AND COLD COLORS
@@ -18,6 +17,7 @@ toc:
 - MIXING TINTS
 - TO MATCH SPECIAL COLORS
 - ORIGIN AND DEFINITION OF COLORS.
+---
 
 # Proportions for MIXING ALL KNOWN COLORS
 # Water, Oil Paints or Printing Inks
