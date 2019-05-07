@@ -115,7 +115,11 @@ In Atom, you'll see a list of your commits below the "Commit" button. If you hav
 
 ![pushing in atom](/sections/push.png)
 
-### 4. Pull or fetch
+Once you've successfully pushed, open the live site in your web browser: https://tri-cods.github.io/Ed-Minimal-Editions/
+
+You may need to wait a minute or two, but your text should soon appear in the list of texts on the front page. How did that happen? Jekyll magic!
+
+### 4. Pull
 
 When you're collaborating with others, make sure you are working on the most up-to-date version of your repository by "pulling" any new changes from the remote to your local.
 
@@ -125,10 +129,49 @@ You can also check the status of your repo in relation to the remote (and your u
 
 `git status`
 
-In Atom, you'll pull by clicking the "Fetch" icon: ![fetch](/sections/fetch.png)
+In Atom, you can check to see if there are updates to pull by clicking  on "Fetch" on the bottom of the window: ![fetch](/sections/fetch.png) If there are changes, you will see "Pull". Click to  
+
+Now that your colleagues have published their texts to github, pull them from the remote repository, then look at your local repository in finder. Can you see what happened?
 
 ---
 
 # Collaborating on GitHub using branches
 
-When you have multiple users contributing to a repository at the same time, using branches is one way to help minimize conflicts
+When you have multiple users contributing to a repository at the same time, using branches is one way to help minimize conflicts. Branching creates a personal version of the repository that you can make public without interfering with anyone else's changes. Once you are ready, you can merge your changes with the primary or "master" branch. At this point, any conflicting changes can be resolved.
+
+Our next task is more complicated and will require simultaneous editing: you're going to add your name and a short bio to the [contributors page](https://github.com/tri-cods/Ed-Minimal-Editions/blob/master/contributors.md). You could do this by contributing directly to the master branch (as you have been doing), but if you all do that at the same time we are likely to encounter conflicting changes. Creating branches is one way to minimize these conflicts.  
+
+If you create your own branch and commit your changes to that branch, we can later review the various branches and merge everyone's changes.
+
+In Atom, you'll see a branch icon labeled "master" at the bottom of your Git pane.
+
+![atom master branch](/sections/branch.png)
+
+This icon allows you to switch between branches or create a new branch.
+
+![atom new branch](/sections/new-branch.png)
+
+Note: Switching between branches will change your working tree to the version of the project represented by that branch, which may be ahead or behind the master branch. Make sure you've committed any new changes before you switch branches.
+
+Once you have created a branch, you can commit changes to that branch instead of the master branch. Before these changes will be reflected in the remote repository's versioning, you must publish the branch by clicking "Publish."
+
+![committing and publishing to a new branch](publish-branch.png)
+
+
+---
+
+## Additional resources
+
+[DHRI Git Tutorial](https://github.com/DHRI-Curriculum/git)
+
+[Overview of Atom features for git integration](https://flight-manual.atom.io/using-atom/sections/version-control-in-atom/)
+
+[Programming Historian tutorial for Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
+[Prog Hist Pandoc Tutorial](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+[GitHub Workflow Overview](https://guides.github.com/introduction/flow/)
+
+NB: you don't need the command line to contribute to github projects: [GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop) is a popular GUI.
+
+[Git xkcd](https://xkcd.com/1597/)
