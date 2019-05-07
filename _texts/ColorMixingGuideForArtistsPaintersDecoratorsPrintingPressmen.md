@@ -6,6 +6,18 @@ source: https://archive.org/details/ColorMixingGuideForArtistsPaintersDecorators
 ---
 toc:
 - WHAT IS COLOR?
+- WARM AND COLD COLORS
+- MEANING OF COLORS
+- ART OF COLOR MIXING
+- THE TWO EXTREMES OP WARM AND COLD
+- COLOR BLINDNESS
+- ALTERING COLOR
+- PIGMENT
+- NATURE'S COLOR CHART OF HARMONIOUS COMBINATIONS
+- COLOR HARMONY
+- MIXING TINTS
+- TO MATCH SPECIAL COLORS
+- ORIGIN AND DEFINITION OF COLORS.
 
 # Proportions for MIXING ALL KNOWN COLORS
 # Water, Oil Paints or Printing Inks
@@ -103,7 +115,7 @@ mixing other colors. In other words, they are,
 the original colors from which all other colors are
 produced.
 
-WARM AND COLD COLORS
+## WARM AND COLD COLORS
 Cold and warm colors: Red warm, blue cold,
 yellow bright. White, which is also a cold color
 when added to black makes a cold gray, Yellow
@@ -111,7 +123,7 @@ added to red forms a warm orange.
 
 
 
-MEANING OF COLORS
+## MEANING OF COLORS
 
 White is said to mean purity; blue, fidelity or
 truth; red, love or sacrifice; green, envy; pink,
@@ -122,7 +134,7 @@ black, sorrow or distress, and lavender, passion.
 
 
 
-ART OF COLOR MIXING
+## ART OF COLOR MIXING
 
 Mixing colors is an art in itself. With a com-
 bination of the chief colors — red, yellow, blue
@@ -161,7 +173,7 @@ you will have purity of color*
 
 
 
-THE TWO EXTREMES OP WARM AND COLD
+## THE TWO EXTREMES OP WARM AND COLD
 
 Vermilion or any other red of orange hue
 (warm). Bluish blue (cold). These two colors
@@ -172,7 +184,7 @@ is inferior.
 
 
 
-COLOR BLINDNESS
+## COLOR BLINDNESS
 
 Today, color-blindness is a serious difficulty in
 the way of a person earning a living. A genera-
@@ -200,7 +212,7 @@ woman, married to a color-blinded man, trans-
 mits the defect to all offsprings, both sons and
 daughters.
 
-ALTERING COLOR
+## ALTERING COLOR
 To brighten color, add yellow; to give it
 warmth, add red. To brighten and warm, add or-
 ange. To deepen and cool, add blue. To cool and
@@ -215,7 +227,7 @@ lead. Substitute zinc white.
 
 
 
-PIGMENT
+## PIGMENT
 
 Pigment is any color preparation used by paint-
 ers, printing pressmen, etc. Coloring matter is
@@ -241,8 +253,7 @@ and white.
 
 
 
-NATURE'S COLOR CHART OF HAR-
-MONIOUS COMBINATIONS
+## NATURE'S COLOR CHART OF HARMONIOUS COMBINATIONS
 
 Nature has given us a wonderful color chart,
 of harmonious colors mingled together.
@@ -269,7 +280,7 @@ against an azure sky or viewed in the setting sun.
 
 
 
-COLOR HARMONY
+## COLOR HARMONY
 The secret of harmony is equal value, comple-
 mentary colors are the color or colors which,
 with any color or colors mentioned, make the
@@ -313,7 +324,7 @@ transparent ink.
 
 
 
-MIXING TINTS
+## MIXING TINTS
 
 Paints, Inks, Etc.
 
@@ -386,7 +397,7 @@ red.
 
 
 
-TO MATCH SPECIAL COLORS
+## TO MATCH SPECIAL COLORS
 
 In mixing special colors or shades for large
 jobs, first mix a small quantity, write down exact
@@ -413,7 +424,7 @@ of print, lay this over a solid part of sample.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+## ORIGIN AND DEFINITION OF COLORS.
 
 Alumina — One of the earths containing alum-
 inum.
@@ -477,7 +488,7 @@ having bright yellow cup-shaped flowers.
 
 
 
-ORIGIN AND DEFINITION OF COLORS.
+### ORIGIN AND DEFINITION OF COLORS.
 
 Bistre Brown— Obtained from soot of wood
 fires. A deep citron brown.
