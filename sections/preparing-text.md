@@ -105,19 +105,27 @@ In Atom, write a short message in the box below your Staged Changes. Then click 
 
 ### 3. Push
 
-Now you're ready to publish or 'push' to the remote repo using the command `git push`.
-
-If you haven't yet contributed to github from the command line, you will need to log in with your GitHub account.
+Now you're ready to publish or 'push' to the remote repository and publish your changes to GitHub.
 
 `git push origin master`
 
-### 4. Pull
+If you haven't yet contributed to GitHub from the command line, you will need to log in with your GitHub credentials.
+
+In Atom, you'll see a list of your commits below the "Commit" button. If you have unpushed commits, you'll also see "Push" on the bottom of the window.
+
+![pushing in atom](/sections/push.png)
+
+### 4. Pull or fetch
+
+When you're collaborating with others, make sure you are working on the most up-to-date version of your repository by "pulling" any new changes from the remote to your local.
+
+`git pull`
+
+You can also check the status of your repo in relation to the remote (and your uncommitted changes using
 
 `git status`
 
-Before you push your changes, check the status of the remote repository: if your collaborators have made changes, use `git pull` to incorporate them into your local repository.
-
-Make sure you have the most up-to-date version of your repository by 'pulling' any new changes from the remote repository to your local repository.
+In Atom, you'll pull by clicking the "Fetch" icon: ![fetch](/sections/fetch.png)
 
 ---
 
