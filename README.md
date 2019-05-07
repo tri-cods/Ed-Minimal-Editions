@@ -16,7 +16,7 @@ In this session, we will:
 
 [Setting up](#setting-up)
 
-[Preparing a text for publication](/sections/preparing-text.md)
+[Preparing your text](/sections/preparing-text.md)
 
 [Git in Atom](/sections/git-collaboration.md)
 
