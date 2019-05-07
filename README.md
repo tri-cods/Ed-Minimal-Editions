@@ -16,11 +16,11 @@ In this session, we will:
 
 [Setting up](#setting-up)
 
-[Preparing a text for publication](#preparing)
+[Preparing a text for publication](/sections/preparing-text.md)
 
-[Git from the command line](#git-from-the-command-line)
+[Git in Atom](/sections/git-collaboration.md)
 
-[Collaborating on GitHub](#collaborating-on-github)
+[Collaborating on GitHub](/sections/git-collaboration.md/#collaborating-on-github)
 
 ----
 
@@ -59,10 +59,4 @@ Once you've selected your text, download it in plain text format (with the file 
 4. Save the text file as “your-own-title.md”
 5. Move it to the `_texts` folder in your local copy of the Ed MinimalEditions repository
 
-# Preparing your text <a name="preparing"></a>
-
-
-# Git from the command line
-
-
-# Collaborating on GitHub
+[Next >>>](/sections/preparing-text.md)
