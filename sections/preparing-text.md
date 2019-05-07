@@ -42,11 +42,11 @@ For more information, see the [Ed documentation](https://minicomp.github.io/ed/d
 
 By now you'll be familiar with basic markdown syntax. If you'd like to do more complex formatting you can also use html and a version of markdown called kramdown--the [Ed documentation](https://minicomp.github.io/ed/documentation/#markdown-and-kramdown) has additional instructions on supported formatting for features such as footnotes, block quotes, and poetry.
 
-You can see examples of this
+You can see examples of this in the `_texts` directory: [Love Letters and Cards](/_texts/GenuineCopies-1770.md) and [Delayed till she had ceased to know](/_texts/delayed.md). Look at the formatting of the markdown files and compare them to the  
 
 As you edit your file locally, you can preview it using the 'Markdown Preview' feature in Atom (Packages -> Markdown Preview)
 
-![markdown preview screenshot](sections/markdown-preview.png)
+![markdown preview screenshot](/sections/markdown-preview.png)
 
 Make sure you save your file often.   
 
@@ -60,7 +60,7 @@ So far you've been contributing to GitHub using your browser, but you can also c
 2. using GitHub features available in some text editors (including Atom)
 3. using git commands via the command line
 
-In this lesson we will practice using the command line to push to git.
+In this lesson we will practice using the command line and Atom to push to git.
 
 ## Basic git workflow
 
@@ -70,19 +70,38 @@ Make sure you have a command prompt window open and that your current working di
 
 Make sure you have saved changes to your file.
 
-### 1. Add
+### 1. Stage or add
+
+Before you can publish a file to GitHub, you have to tell Git about the file so it can track its changes. This is called "staging."
 
 `git add newfile.md`
 
-This command tells Git to "stage" or start tracking changes to the specified file. If you'd like to add all recent changes at once, use:
+ If you'd like to add all recent changes at once, use:
 
 `git add --all`
 
+In atom, you can do this by opening the GitHub pane (Packages --> GitHub --> Toggle Git Tab)
+
+![Atom toggle git tab screenshot](/sections/git-tab.png)
+
+A column should appear on the left side. In the top of the column, you'll see a list of all the files in this repo that have "Unstaged Changes." To allow git to track them, click on "Stage All".
+
+![Unstaged changes in Atom](/sections/unstaged.png)
+
+Now you should see the same files listed under "Staged Changes".
+
+![Staged changes in Atom](/sections/staged.png)
+
+
 ### 2. Commit
+
+Once Git has begun tracking your file changes, you **commit** them: you package them for publication and label them for your collaborators, including your future self. Think of it as temporarily "committing" to a draft or a batch of edits.
 
 `git commit -m "message describing my changes"`
 
-By 'committing' you are packaging the changes you've made to tracked files in your repository and labeling them for your collaborators -- including your future self. This prepares the changes for publications.
+In Atom, write a short message in the box below your Staged Changes. Then click "Commit to master."
+
+![Committing in atom](/sections/commit.png)
 
 ### 3. Push
 
