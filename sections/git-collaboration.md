@@ -113,11 +113,15 @@ Open the repository in your browser and try to find where your changes went. Whe
 
 ![GitHub branches](github-branches.png)
 
-This will compare your branch with the master and determine whether there are conflicts that need to be managed. If there are no conflicts, you can easily merge your branch with the master.
+This will compare your branch with the master and determine whether there are conflicts that need to be managed.
 
 ![GitHub pull request](pull-request.png)
 
-If there are conflicts between the branches, you'll have to decide how to resolve them. 
+If there are no conflicts, you can easily merge your branch with the master.
+
+![GitHub merge](merge.png)
+
+If there are conflicts between the branches, you'll have to decide how to resolve them. After you've merged, you can delete your branch, or continue working on your branch.
 
 ---
 
