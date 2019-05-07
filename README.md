@@ -44,7 +44,7 @@ You now have a copy of the 'Ed Minimal Edition repository' in your computer that
 
 ## Becoming collaborators
 
-Now that you have a local copy of the repository in your computer, you can use your text editor rather than Github to make changes to the repository. That said, you still are not able to make changes to the mail repository in github. To do that, you have to become collaborators.
+Now that you have a local copy of the repository in your computer, you can use your text editor rather than Github to make changes to the repository. That said, you still are not able to make changes to the main repository in github. To do that, you have to become collaborators.
 
 1. Owner needs to add your github username as a collaborator to the repository
 2. You will get an email asking to accept becoming a collaborator
