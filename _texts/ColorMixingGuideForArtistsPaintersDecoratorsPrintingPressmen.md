@@ -4,24 +4,18 @@ title: "Color mixing guide for artists, painters, decorators, printing pressmen,
 author: John L. King
 source: https://archive.org/details/ColorMixingGuideForArtistsPaintersDecoratorsPrintingPressmenShow
 ---
-Proportions for
+toc:
+- WHAT IS COLOR?
 
-MIXING ALL KNOW N COLORS
-
-Water, Oil Paints or Printing Inks
-
-
+# Proportions for MIXING ALL KNOWN COLORS
+# Water, Oil Paints or Printing Inks
 
 
-Painters, Decorators, Artists, Art Instructors, Show
-
-Card Writers, Sign Painters, Pressmen,
-
-School Children, Etc.
+## Painters, Decorators, Artists, Art Instructors, Show Card Writers, Sign Painters, Pressmen, School Children, Etc.
 
 
 
-PRIMARY AND SECONDARY COLORS
+## PRIMARY AND SECONDARY COLORS
 
 All colors in this "color chart" are made from
 the primary colors, yellow, red and blue.
@@ -29,7 +23,7 @@ the primary colors, yellow, red and blue.
 
 
 
-SECONDARY AND TERTIARY COLORS
+## SECONDARY AND TERTIARY COLORS
 
 Overlapping plates on this sheet are printed
 in full color. Tints are avoided in order to show
@@ -52,31 +46,14 @@ secondary colors broken up with light.
 
 
 
-Color Mixing Guide
+# Color Mixing Guide
+## FOR ARTISTS, PAINTERS, DECORATORS, PRINTING PRESSMEN, SHOW CARD WRITERS,SIGN PAINTERS, COLOR MIXERS
+
+### GIVES COLOR MIXTURES BY PARTS
 
 
 
-FOR
-
-ARTISTS, PAINTERS, DECORATORS,
-
-PRINTING PRESSMEN,
-
-SHOW CARD* WRITERS,
-
-SIGN PAINTERS, COLOR MIXERS
-
-
-
-GIVES COLOR MIXTURES BY PARTS
-
-
-
-About three thousand colors and shades can be
-made from yellow, red, blue, black and white.
-This little Color Mixing Guide is worth many
-dollars, as it shows you exactly how, without
-waste of time and material.
+About three thousand colors and shades can be made from yellow, red, blue, black and white. This little Color Mixing Guide is worth many dollars, as it shows you exactly how, without waste of time and material.
 
 
 
@@ -85,9 +62,7 @@ Compiled by John L. King
 
 
 NEW YORK;
-
 J. S. OGILVIE PUBLISHING COMPANY
-
 57 ROSE STREET
 
 
@@ -102,24 +77,15 @@ JOHN ALFRED LANGFORD.
 
 
 
-J. S.
-
-
-
 Copyright, 1923,
-Ogilvie Publishing Co.
+J. S. Ogilvie Publishing Co.
 
 
 
-WHAT IS COLOR?
+## WHAT IS COLOR?
 
 Color is an effect caused by the reflection of cer-
-tain rays of light. In order to understand this
-statement, it is necessary that we know what
-light is. Science teaches us that light is a form
-of intense vibration which reaches the earth direct
-from the sun. These vibrations affect certain
-nerves of the retina of the eye, causing the sensa-
+tain rays of light. In order to understand this statement, it is necessary that we know what light is. Science teaches us that light is a form of intense vibration which reaches the earth direct from the sun. These vibrations affect certain nerves of the retina of the eye, causing the sensa-
 tion known as color.
 
 In the study of color, or in practice, it is neces-
